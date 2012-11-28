@@ -2,7 +2,6 @@ package com.example.devcon_exampl1;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v4.app.NavUtils;
 import android.widget.Toast;
 
 import com.actionbarsherlock.app.ActionBar;
