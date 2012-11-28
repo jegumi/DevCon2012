@@ -1,0 +1,11 @@
+<resources>
+
+  <string name="app_name">DevCon_exampl1</string>
+  <string name="hello_world">Welcome to DevCon Android example Actionbar Sherlock</string>
+  <string name="menu_settings">Settings</string>
+  <string name="title_activity_main">DevCon</string>
+  <string name="uno">Uno</string>
+  <string name="dos">Dos</string>
+  <string name="tres">Tres</string>
+
+</resources>

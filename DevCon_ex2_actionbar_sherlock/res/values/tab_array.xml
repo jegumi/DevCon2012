@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string-array name="main_tab">
+    <item>@string/uno</item>
+    <item>@string/dos</item>
+    <item>@string/tres</item>
+  </string-array>
+</resources>
