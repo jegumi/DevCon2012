@@ -1,7 +1,0 @@
-INDEX VERSION 1.126+/Users/jegumi/Projects/DevCon2012/.metadata/.plugins/org.eclipse.jdt.core
-3820468468.index
-3768358036.index
-2201547263.index
-119538679.index
-1263847059.index
-575005633.index
